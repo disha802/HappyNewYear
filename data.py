@@ -1,5 +1,5 @@
 PEOPLE = {
-    "LOVE2025": {
+    "KAUZT": {
         "role": "boyfriend",
         "display_name": "For You 🖤",
         "images": [
@@ -38,19 +38,20 @@ Warm wishes,
             "assets/maa/3.jpeg",
             "assets/maa/4.jpeg",
         ],
-        "puzzle_question": "Unscramble this word GYDUIA:",
-        "puzzle_answer": "GUDIYA",
+        "puzzle_question": "Unscramble this word CUIIEETUP:",
+        "puzzle_answer": "CUTIEPIE",
         "letter": """
-Maa,
+Dear Mom,
 
-Everything good in me has traces of you in it.
-Thank you for holding the world together without ever asking for credit.
+As 2025 comes to a close, I wanted to pause and say a few things that feel important to me.
 
-May 2025 give you back a little of the love you pour into everyone else.
-Rest a little more. Worry a little less.
+This year has been a big one for growth and reflection, and through it all, I’ve thought a lot about family and where I come from. I want you to know that I appreciate you and the role you’ve played in shaping who I am today. So much of what I carry—strength, persistence, and care—comes from you.
 
-Love always,
-"""
+I’m learning more about myself as I grow, and that process has made me value connection, understanding, and patience even more. I hope the next year brings us moments of calm, openness, and shared understanding.
+
+Thank you for being part of my life and my journey. I’m stepping into the new year with hope and gratitude.
+
+With love,"""
     },
 
         "MUKS": {
@@ -63,19 +64,20 @@ Love always,
             "assets/paa/4.jpeg",
             "assets/paa/5.jpeg",
         ],
-        "puzzle_question": "Where was our first long drive together?",
-        "puzzle_answer": "IGATPURI",
+        "puzzle_question": "Who is your only maddu?",
+        "puzzle_answer": ["DISHA", "YOU"],
         "letter": """
-Pappa,
+Dear Dad,
 
-To the man who taught me strength, silence, and bravery.
-I see the things you do for us that go unnoticed.
+As this year wraps up, I just wanted to say something I don’t always say out loud.
 
-I hope 2026 brings you as much peace as you provide for our family.
-Thank you for being our shield.
+You’ve always been my role model. I’ve looked up to you for as long as I can remember, and honestly, I still do. So much of the way I think, the way I handle things, and the kind of person I’m trying to be comes from watching you.
 
-With respect and love,
-"""
+Having you as my dad has always made me feel steady and proud. I’m really grateful for you—for who you are and for how you show up.
+
+That’s it, really. I just wanted you to know.
+
+Love,"""
     },
 
         "SMEETU": {

@@ -212,8 +212,13 @@ def puzzle_screen():
     answer = st.text_input("Your answer")
 
     if st.button("Submit"):
-        if answer.strip().upper() == person["puzzle_answer"]:
+        valid_answers = person["puzzle_answer"]
+        if isinstance(valid_answers, str):
+            valid_answers = [valid_answers]
+        
+        if answer.strip().upper() in [v_ans.upper() for v_ans in valid_answers]:
             # No balloons, just proceed
+            st.balloons()
             advance_stage()
         else:
             st.warning("Take your time. No rush.")
