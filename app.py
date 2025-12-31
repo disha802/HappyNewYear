@@ -77,7 +77,7 @@ st.markdown("""
     }
     .reel-track {
         display: inline-block;
-        animation: scroll 40s linear infinite; /* Slower speed */
+        animation: scroll 4s linear infinite; /* Slower speed */
     }
     .reel-img {
         height: 280px; /* Reducing height slightly */
